@@ -169,7 +169,3 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 - [TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)
 - [vitejs/vite](https://github.com/vitejs/vite)
 - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models)
-  
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Baiyuetribe/paper2gui&type=Date)](https://star-history.com/#Baiyuetribe/paper2gui&Date)
