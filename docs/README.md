@@ -148,4 +148,4 @@ VuePress 默认使用 Vite，打包时会引入时间戳和 hash 对文件重命
 2. 下载 LearnData 项目到本地，在目录下运行终端，输入命令 `pnpm add vuepress@next vuepress-theme-hope@next @vuepress/plugin-search@next && pnpm i && pnpm up`。
 3. 完成前两步后，终端中输入 `pnpm docs:dev`，成功即可提示访问链接，默认为 `http://localhost:8080/`。
 
-运行本地服务器后，修改文件时预览页面也会同步发生改变。如果想停止本地服务器，在终端中按键 `Ctrl + C`。
+运行本地服务器后，修改文件时预览页面也会同步发生改变。如果想停止本地服务器，在终端中按键 `Ctrl + C`
