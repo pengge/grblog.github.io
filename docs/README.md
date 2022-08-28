@@ -123,11 +123,7 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/huoshan_tts.png)
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/microsoft_tts.gif)
-![](docs/images/gfpgan_gui.png)
 
-![](docs/images/rvm_gui.jpg)
-
-![](docs/images/video_compare.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/rife-gui.gif)
 
@@ -135,17 +131,12 @@ Paper2GUI: 一款面向普通人的AI桌面APP工具箱，免安装即开即用�
 
 
 
-![](docs/images/realESRGAN_RAM.png)
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/realcugan-gui.png)
 
 
 
 ![](https://cdn.jsdelivr.net/gh/Baiyuetribe/paper2gui@main/docs/images/animegan-gui.png)
-
-![](docs/images/yolov6_gui.png)
-![](docs/images/yolox_gui.png)
-![](docs/images/yolov5_gui.png)
 
 ### 适配说明
 
