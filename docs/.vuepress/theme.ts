@@ -78,7 +78,7 @@ export default hopeTheme({
     medias: {
       GitHub: "https://github.com/88lin",
       Zhihu: "https://www.zhihu.com/",
-      Weibo: "https://weibo.com/",
+      QQ: "https://qm.qq.com/cgi-bin/qm/qr?k=soqsUKpnBiVmawzq0o_Kz8lbDUcb7NLp&noverify=0",
       Wechat: "https://s1.plumeta.com/i/2022/08/28/nr9gl7.png",
       少数派: [
         "https://sspai.com/",
