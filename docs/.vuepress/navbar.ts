@@ -12,7 +12,7 @@ export default navbar([
       "code/AutoHotKey",
       "code/Electron",
       {
-        text: "页面开发",
+        text: "《机械设计》",
         icon: "vue",
         prefix: "",
         children: [
