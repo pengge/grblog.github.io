@@ -79,7 +79,7 @@ export default hopeTheme({
       GitHub: "https://github.com/88lin",
       Zhihu: "https://www.zhihu.com/",
       QQ: "https://qm.qq.com/cgi-bin/qm/qr?k=soqsUKpnBiVmawzq0o_Kz8lbDUcb7NLp&noverify=0",
-      Wechat: "https://postimg.cc/qtSGwdHg",
+      Wechat: "https://s1.328888.xyz/2022/09/10/9S5CB.jpg",
       少数派: [
         "https://sspai.com/",
         path.resolve(__dirname, "icons/sspai.svg"),
