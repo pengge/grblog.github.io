@@ -99,7 +99,7 @@ export default hopeTheme({
     comment: {
       //部署 Waline：https://waline.js.org/guide/get-started.html
       provider: "Waline",
-      serverURL: "https://blog-88lin.vercel.app/",
+      serverURL: "https://blog-indol-two.vercel.app/",
       pageview: true,
       //Giscus 备用配置
       //provider: "Giscus",
