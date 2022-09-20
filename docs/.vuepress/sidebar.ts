@@ -22,7 +22,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "📖 优质书籍搜集",
+    text: "💻家庭网络知识整理",
     icon: "",
     prefix: "/web/",
     link: "",
