@@ -14,7 +14,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🧰 软件应用",
+    text: "🧰 资源分享",
     icon: "",
     prefix: "/apps/",
     link: "",
