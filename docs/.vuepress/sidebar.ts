@@ -38,7 +38,7 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🐋 Linux 服务",
+    text: "📑学术资源",
     icon: "",
     prefix: "/services/",
     link: "",
