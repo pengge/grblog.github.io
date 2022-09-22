@@ -4,7 +4,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { text: "博客", icon: "blog", link: "/blog" },
   {
-    text: "代码",
+    text: "资源",
     icon: "code",
     prefix: "/",
     children: [
@@ -12,13 +12,12 @@ export default navbar([
       "code/AutoHotKey",
       "code/Electron",
       {
-        text: "《机械设计》",
+        text: "📑学术资源",
         icon: "vue",
         prefix: "",
         children: [
-          "web/VuePress",
-          "web/docsify",
-          "deploy/VPS",
+          "services/文献论文电子书搜索",
+          "services/文库免费下载工具集",
         ],
       },
     ],
@@ -31,12 +30,12 @@ export default navbar([
       "apps/Applist",
       "apps/AppNotes",
       "apps/Chrome",
+      "apps/各类网站资源合集",
       {
-        text: "服务/系统",
+        text: "系统",
         icon: "any",
         prefix: "",
         children: [
-          "services/NAS",
           "windows/faq",
         ],
       },
