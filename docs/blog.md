@@ -3,7 +3,7 @@
 home: true
 layout: Blog
 icon: home
-bgImage: http://tc.seoipo.com/home-bg-1.jpg
+bgImage: https://sukiui.com/i/2022/09/22/tywanb.jpg
 title: 故人的博客
 #heroImage: /logo.svg
 heroText: 故人的博客
@@ -21,9 +21,9 @@ tagline: 千载流年一如梦，月落山河一世倾
 #    link: https://链接地址
 #
 #  - icon: book
-#    name: 书籍名称
-#    desc: 书籍详细描述
-#    link: https://你的书籍链接
+#    name: 国立公文書館 デジタルアーカイブ
+#    desc: 内阁文库是日本一所收藏汉、 日文古籍的专门图书馆。藏书总量为54万册，其中日文书31万多册、汉籍18万多册、西文书4.5万多册
+#    link: https://www.digital.archives.go.jp
 #
 #  - icon: article
 #    name: 文章名称
