@@ -8,7 +8,7 @@ title: 故人的博客
 #heroImage: /logo.svg
 heroText: 故人的博客
 heroFullScreen: false
-tagline: 人工降神，机械飞升
+tagline: 千载流年一如梦，月落山河一世倾
 #projects:
 #  - icon: project
 #    name: 项目名称
