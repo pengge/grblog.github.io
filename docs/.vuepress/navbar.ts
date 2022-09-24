@@ -31,7 +31,6 @@ export default navbar([
       "apps/Applist",
       "apps/AppNotes",
       "apps/Chrome",
-      "apps/各类网站资源合集",
       {
         text: "系统",
         icon: "any",
