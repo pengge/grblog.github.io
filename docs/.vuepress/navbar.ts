@@ -17,7 +17,7 @@ export default navbar([
         prefix: "",
         children: [
           "services/文献论文电子书搜索",
-          "services/文献翻译工具”,
+          "services/文献翻译工具",
           "services/文库免费下载工具",
         ],
       },
