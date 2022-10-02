@@ -3,7 +3,7 @@
 home: true
 layout: Blog
 icon: home
-bgImage: https://sukiui.com/i/2022/09/22/tywanb.jpg
+bgImage: https://s1.sukiui.com/i/2022/10/02/p8takv.png
 title: 故人的博客
 #heroImage: /logo.svg
 heroText: 故人的博客
